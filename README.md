@@ -8,7 +8,7 @@ Put `eclipse_Cad` in your resources folder.
 Ensure `eclipse_Cad` in your server cfg.
 Insert sql dump(take in `eclipse_Cad`) in your db.
 Add this column to `players`:
-
+`cadInfo`
 ![image](https://user-images.githubusercontent.com/36680471/165324305-53caf1e1-f2a2-4920-9002-423dfa11e097.png)
 
 Copy this for default value:
